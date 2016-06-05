@@ -1,0 +1,142 @@
+@media(min-width: 992px){
+	h1 {
+	text-align: center;
+}
+*{
+	box-sizing: border-box;
+}
+div {
+	float: left;
+	margin-right: 10px;
+}
+#container1{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid black;
+	width: 350px;
+	
+}
+	#container1 p {
+		background-color: pink;
+		width: 75px;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+	}
+#container2{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid black;
+	width: 350px;
+	
+}
+    #container2 p{
+    	background-color: maroon;
+		width: 75px;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+
+    }
+#container3{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 90px 10px 10px;
+	border: 1px solid black;
+	width: 350px;
+
+}
+    #container3 p{
+    	background-color: orange;
+		width: 75px;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+
+    }    
+}
+@media(min-width: 100px) and (max-width: 991px)
+{
+  
+  h1 {
+	text-align: center;
+}
+*{
+	box-sizing: border-box;
+}
+div {
+	float: left;
+	
+}
+
+#container1{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid black;
+	width: 90%;
+	height:50%;
+	
+}
+	#container1 p {
+		background-color: pink;
+		width: 30%;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+	}
+#container2{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid black;
+	width: 90%;
+	height: 50%;
+	
+}
+    #container2 p{
+    	background-color: maroon;
+		width: 30%;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+
+    }
+#container3{
+	background-color: grey;
+	padding: 10px 10px 10px 10px;
+	margin: 10px 10px 10px 10px;
+	border: 1px solid black;
+	width: 90%;
+	height: 50%;
+
+}
+    #container3 p{
+    	background-color: orange;
+		width: 30%;
+		text-align: center;
+		position: relative;
+		top: -30px;
+		left: 263px;
+		border: 1px solid black;
+		font-size: 120%;
+
+    }    
+}
